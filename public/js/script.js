@@ -12,7 +12,7 @@ const answers_no = {
         "Ok na h-hurt na yung feelings ko ;( !",
         "Ang sama mo!",
         "Bakit mo ginagawa sakin to?",
-        "Please give me a change :( !",
+        "Please give me a chance?",
         "What if mag-cry ako?",
         "Ok.........."
     ],
@@ -148,6 +148,6 @@ function changeLanguage() {
     } else if (language === "thai") {
         successMessage.textContent = "ฮูเร่ คืนดีกันแล้วน้า :3";
     } else {
-        successMessage.textContent = "Yepppie, see you sooonnn :3";
+        successMessage.textContent = "Yeheyyy, see you sooonnn :3";
     }
 }
